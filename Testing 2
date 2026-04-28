@@ -1,2 +1,11 @@
-Testing site: 
+Testing site: https://lalafo.az/azerbaijan/kompyutery/noutbuklar
 Functional testing.
+Positive tests
+Saytda electronika bölməsinə daxil oldum və noutbooklar kateqoryasını seçdim. Uyğun məhsulları göstərdi
+Məhsulları brendinə uyğun olaraq seçmək mümkündür.
+Filtryasiya düymələri düzgün işləyir. 
+Məhsulun bir neçə xüsusiyyətinə uyğun axtarmaq mümkündür. Video karta, processor və s.
+Min-Max qiymət limiti qoymaq mümkündür.
+Elana daxil olduqda saytın özü ilə bir başa əlaqəyə keçmək mümkündür
+Satıcının gün ərzində nə qədər aktiv suallara cavab verdiyini görmək mümkündür
+Neqativ tests
