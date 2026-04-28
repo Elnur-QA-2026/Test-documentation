@@ -9,3 +9,12 @@ Min-Max qiymət limiti qoymaq mümkündür.
 Elana daxil olduqda saytın özü ilə bir başa əlaqəyə keçmək mümkündür
 Satıcının gün ərzində nə qədər aktiv suallara cavab verdiyini görmək mümkündür
 Neqativ tests
+Satışın hansı şərtlə olduğunu filtrasiya etmək mümkün deyil. Yəni kreditdə və ya nağd satışda olmaqını
+Müəyyən bir filtrasiya etdikdən sonra həmin bölgüyə uyğun elanlar bitdikdən sonra saytın oz təklif etdiyi məhsullar gəlir. Elanlar arasında keçid gözə çarpmır.
+Non functional test
+Saytın rəngələri gözü yormur
+Hər bir məhsul kateqoriyası aydın şəkildə seçilir
+Giriş və qeydiyyat düyməsinə daha gözə çarpan dizayn vermək olardı
+Hər bir yazı aydın seçilir
+Sayt haqqında və əlaqələr bölməsi hamburger menyuda yerləşməsi dərhal gözə çarpmır
+Jmeter load test
