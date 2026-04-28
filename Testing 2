@@ -17,4 +17,14 @@ Hər bir məhsul kateqoriyası aydın şəkildə seçilir
 Giriş və qeydiyyat düyməsinə daha gözə çarpan dizayn vermək olardı
 Hər bir yazı aydın seçilir
 Sayt haqqında və əlaqələr bölməsi hamburger menyuda yerləşməsi dərhal gözə çarpmır
-Jmeter load test
+JMETER LOAD TEST
+Test olunan sayt https://lalafo.az/azerbaijan/kompyutery/noutbuklar
+Protocol: https 
+Server name: lalafo.az
+Path: /azerbaijan/kompyutery/noutbuklar
+Number of threads: 150
+Ramp up period: 5
+Loop count: 2
+Result is the same with http result: sample(300), avarage(5043), min (658), max (32317) 
+Test took 34 seconds
+Saytda 150 user 2 loop. Test edildi ve neticede cemi 2 user daxil ola bilmədi. Saytın qoruması cox zəifdir. Testden sonra saytı bir daha yoxladım heç bir problemlə üzləşmədim.
