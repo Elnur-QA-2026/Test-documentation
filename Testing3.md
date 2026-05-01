@@ -114,4 +114,4 @@ Results
 2. Failed
 3. Passed
 4. Failed
-Qeyd: Əsas səhifədən məhsula keçid etdikdə səhifə ortadan açılır. 
+Qeyd: Əsas səhifədən məhsula keçid etdikdə səhifə ortadan açılır. Həmçinin səhifədə failed to find products yazısı gəlir. Saytın performance problemləri müşahidə olunur.
